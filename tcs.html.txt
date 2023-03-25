@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>網頁貪吃蛇遊戲</title>
+	<style>
+		/* 在這裡設計 CSS 樣式 */
+	</style>
+</head>
+<body>
+	<header>
+		<h1>網頁貪吃蛇遊戲</h1>
+	</header>
+	<main>
+		<div id="game-area">
+			<!-- 在這裡顯示遊戲區域 -->
+		</div>
+	</main>
+	<footer>
+		<button id="start-button">開始</button>
+		<button id="reset-button">重置</button>
+		<button id="pause-button">暫停</button>
+	</footer>
+	<script src="snake.js"></script>
+</body>
+</html>
